@@ -16,6 +16,7 @@ for i in range(2, 20):
         print(i)
         
         
+        
 #wersja copilot z logami
 # def jest_pierwsza(n):
 #     print(f"Sprawdzam liczbę: {n}")
