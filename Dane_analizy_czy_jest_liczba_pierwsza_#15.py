@@ -2,6 +2,7 @@
 # kod definiuje funkcję, która sprawdza, czy liczba jest pierwsza. 
 # następnie w pętli wypisuje wszystkie liczby pierwsze w przedziale od 2 do 19
 # Może byc przydatny w matematyce grach losowych lub algorytmach wymagających analizy liczb pierwszych
+# zmienna "i" jest argumentem "n" funkcji jest_pierwsza , "i" jest przepisywane do "n"
 
 def jest_pierwsza(n):
     if n < 2:
